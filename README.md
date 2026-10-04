@@ -57,66 +57,60 @@ Frontend Developer with 3+ years of experience building **React & Angular applic
 
 ## ⭐ Featured Projects
 
-### 🏥 Dr. Saif Clinic — ERP & CRM
+### 🏥 Dr. Saif Clinic
 
-A healthcare ERP and CRM platform built with modern React technologies.
+**ERP & CRM Platform**
 
-**Tech:** React 19 · TypeScript · Vite · TanStack Query · Zustand · Tailwind CSS · REST APIs
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery\&logoColor=white)](https://tanstack.com/query)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react\&logoColor=white)](https://zustand.docs.pmnd.rs/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
 
-Features include:
+Healthcare ERP & CRM platform covering patients, appointments, medical records, prescriptions, invoices, suppliers, payroll, and reports with Arabic RTL support.
 
-* Patient management
-* Appointments
-* Medical records
-* Prescriptions
-* Invoices & services
-* Purchases & suppliers
-* Employees & payroll
-* Reports
-* Arabic RTL interface
-
-[View Repository](https://github.com/Mahmoudnabil911/Dr-Saif-Clinic) · [Live Demo](https://dr-saif-clinic.vercel.app/)
+**[Repository](https://github.com/Mahmoudnabil911/Dr-Saif-Clinic)** · **[Live Demo](https://dr-saif-clinic.vercel.app/)**
 
 ---
 
 ### 🛒 React POS System
 
-Modern POS and inventory management dashboard built with React 19.
+**POS & Inventory Management Dashboard**
 
-**Tech:** React 19 · TypeScript · Tailwind CSS · Zustand · React Router · Chart.js
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react\&logoColor=white)](https://zustand.docs.pmnd.rs/)
 
-Features include:
+Modern POS and inventory dashboard with sales management, products, analytics, and responsive business workflows.
 
-* POS workflow
-* Inventory management
-* Products & categories
-* Sales management
-* Dashboard analytics
-* Responsive interface
-
-[View Repository](https://github.com/Mahmoudnabil911/React-Pos-system)
+**[Repository](https://github.com/Mahmoudnabil911/React-Pos-system)**
 
 ---
 
-### 📊 Babu POS & Management Dashboard
+### 📊 Babu POS
 
-Business management platform with multiple modules and reports.
+**POS & Business Management Platform**
 
-**Tech:** Angular · TypeScript · REST APIs · RxJS · SCSS · Angular UI components
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex\&logoColor=white)](https://rxjs.dev/)
 
-Built with reusable components and support for Arabic RTL interfaces.
+Multi-module business platform with POS workflows, dashboards, reports, reusable components, and Arabic RTL support.
 
 ---
 
 ### 🌐 Personal Portfolio
 
-My personal developer portfolio showcasing my experience, projects, and technical skills.
+**Frontend Developer Portfolio**
 
-**Tech:** Angular · TypeScript · SCSS
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass\&logoColor=white)](https://sass-lang.com/)
 
-[View Portfolio](https://mahmoud-nabil-portfolio.vercel.app/)
+Personal portfolio showcasing my projects, experience, and frontend development skills.
 
----
+**[Live Portfolio](https://mahmoud-nabil-portfolio.vercel.app/)**
 
 ## 💼 Experience
 

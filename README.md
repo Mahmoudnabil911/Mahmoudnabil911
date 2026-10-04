@@ -2,12 +2,20 @@
 
 ### Frontend Developer | React & Angular
 
-Frontend Developer with 3+ years of experience building scalable web applications using **React, Angular, and TypeScript**.
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-16%2B-DD0031?logo=angular\&logoColor=white)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)](https://vite.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/Mahmoudnabil911)
 
-I work mainly on **ERP, CRM, POS, and healthcare applications**, with a focus on reusable components, clean architecture, responsive interfaces, REST APIs, and Arabic RTL applications.
+Frontend Developer with 3+ years of experience building **React & Angular applications** across ERP, CRM, POS, and healthcare platforms.
 
 📍 Cairo, Egypt
 💼 Open to Full-Time Frontend Opportunities
+
 
 ---
 
